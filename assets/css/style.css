@@ -36,3 +36,7 @@ main {
 	padding: 2rem 25%;
 	line-height: 1.6;
 }
+
+.nav-list {
+	margin: 30px auto 50px;
+}
